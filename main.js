@@ -1,2 +1,3 @@
 console.log('JS loaded')
-console.log('new now!')
+console.log('nfew now!')
+console.log('nfew now!')
